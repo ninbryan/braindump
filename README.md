@@ -15,4 +15,5 @@ probably a list of things I'm thinking of trying, but probably won't get to
 - [ ] learning a new language
 - [ ] learning a new language that is not computer related
 - [ ] Conferences outside of AZ
-- [ ] adding more to the braindump
+- [x] adding more to the braindump
+- [ ] finishing personal blog/portfolio/random list of things site
