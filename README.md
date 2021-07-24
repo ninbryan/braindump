@@ -6,7 +6,7 @@ probably a list of things I'm thinking of trying, but probably won't get to
 - [ ] Recipe book -- for the foods that I like
 - [ ] VSCode - something about
 - [ ] JAMstack
-- [ ] bread
+- [x] bread
 - [ ] PWA
 - [ ] SEO
 - [ ] working out
